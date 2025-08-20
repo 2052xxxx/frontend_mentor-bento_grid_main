@@ -28,7 +28,6 @@ body{
         grid-template-rows: repeat(12, 5em);
         grid-gap: 1em;
         height: fit-content;
-        margin: 4rem 0;
         grid-template-areas: 
             "item-2 item-2"
             "item-2 item-2"
