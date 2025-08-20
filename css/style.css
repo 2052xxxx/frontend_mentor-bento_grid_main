@@ -127,7 +127,6 @@ body{
 
     #img-item-7{
         width: 70% !important;
-        /* height: 100%; */
         object-fit: contain;    
     }
 
@@ -141,7 +140,6 @@ body{
 
     #img-item-8{
         width: 100%;
-        /* height: fit-content !important; */
         object-fit: contain;    
         object-position: center;
     }
@@ -176,14 +174,10 @@ body{
 }
 
 .container > div {
-    /* background-color: rgb(255, 186, 215);
-    border: 5px solid rgb(200, 52, 114); */
-    /* background-size: contain; */
     border-radius: 1em;
 }
 
 .item-1{
-    /* background: no-repeat url("/assets/images/illustration-create-post.webp"); */
     background-color: #FAEEE2;
     padding: 0 20px;
     align-content: center;
@@ -204,7 +198,6 @@ body{
 }
 
 .item-2{
-    /* background: no-repeat url("/assets/images/illustration-five-stars.webp"); */
     background-color: #7651DC;
     justify-items: center; 
     padding: 0 2em;
@@ -212,7 +205,6 @@ body{
 
 #img-item-2{
     width: 30%;
-    /* height: 100%; */
     object-fit: contain;    
     margin: auto;
     display: block;
@@ -238,7 +230,6 @@ body{
 }
 
 .item-3{
-    /* background: no-repeat url("/assets/images/illustration-schedule-posts.webp"); */
     background-color: #DCD1FC;
     align-content: space-around;
     overflow: hidden;
@@ -252,7 +243,6 @@ body{
 }
 
 .item-3{
-    /* background: no-repeat url("/assets/images/illustration-schedule-posts.webp"); */
     background-color: #DCD1FC;
     align-content: space-around;
     overflow: hidden;
@@ -322,7 +312,6 @@ body{
 }
 
 .item-5{
-    /* background: no-repeat url("/assets/images/illustration-consistent-schedule.webp"); */
     background-color: #FFCC69;
     overflow: hidden;
     padding: 0 1em;
@@ -330,7 +319,6 @@ body{
 
 #img-item-5{
   width: 100%;
-  /* height: 100%; */
   object-fit: contain;    
 }
 
@@ -341,7 +329,6 @@ body{
 }
 
 .item-6{
-    /* background: no-repeat url("/assets/images/illustration-ai-content.webp"); */
     background-color: #FFCC69;
     overflow: hidden;
     align-content: center; 
@@ -364,7 +351,6 @@ body{
 }
 
 .item-7{
-    /* background: no-repeat url("/assets/images/illustration-audience-growth.webp"); */
     overflow: hidden;
     background-color: #FFFFFF;
     padding: 1em;
@@ -372,7 +358,6 @@ body{
 
 #img-item-7{
   width: 100%;
-  /* height: 100%; */
   object-fit: contain;    
 }
 
@@ -385,7 +370,6 @@ body{
 }
 
 .item-8{
-    /* background: no-repeat url("/assets/images/illustration-grow-followers.webp"); */
     overflow: hidden;
     background-color: #7651DC;
     display: flex;
@@ -395,7 +379,6 @@ body{
 }
 
 #img-item-8{
-  /* width: 100%; */
     height: 100%;
     object-fit: contain;    
     object-position: right;
