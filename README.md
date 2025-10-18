@@ -55,6 +55,6 @@ Use Grid Layout Module to display and manage components easier, styling each com
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Add your name here]()
+- Frontend Mentor - [@yourusername]()
+- Twitter - [@yourusername]()
