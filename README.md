@@ -32,8 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor | Bento grid](https://2052xxxx.github.io/bento-grid-main/)
 
 ## My process
 
@@ -55,6 +54,6 @@ Use Grid Layout Module to display and manage components easier, styling each com
 
 ## Author
 
-- Website - [Add your name here]()
-- Frontend Mentor - [@yourusername]()
-- Twitter - [@yourusername]()
+- Website - [nmt's space](https://2052xxxx.github.io/)
+- LinkedIn - [/in/minh-trang-nmt](www.linkedin.com/in/minh-trang-nmt)
+- GitHub - [@2052xxxx](https://github.com/2052xxxx)
